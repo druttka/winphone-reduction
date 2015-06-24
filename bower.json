@@ -1,0 +1,19 @@
+{
+  "name": "my-recipes",
+  "version": "0.0.0",
+  "authors": [
+    "David Ruttka <david@davidruttka.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/www/scripts/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.1"
+  }
+}
